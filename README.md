@@ -27,7 +27,7 @@ I build clean, reproducible analysis pipelines end-to-end — **data → feature
 
 *Signals: experiment rigor, leakage controls, reproducibility.*
 
-**🌿 Environmental + Biodata Analyses**
+**🌱 Environmental + Biodata Analyses**
 - [Environmental data](https://github.com/kmaso99/environmental-data)
 - [Data visualizations](https://github.com/kmaso99/data-visualizations)
    

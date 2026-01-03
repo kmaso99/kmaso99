@@ -5,6 +5,7 @@
 ![R](https://img.shields.io/badge/R-Tidyverse%20%2F%20Stats-276DC3?logo=r&logoColor=white)
 ![Workflow](https://img.shields.io/badge/Workflow-Reproducible-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Science-orange)
+![Profile Views](https://komarev.com/ghpvc/?username=kmaso99&color=blue)
 
 **Data Analyst / Data Scientist** working across **ecological, financial, and aerospace** datasets.
 

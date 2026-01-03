@@ -19,6 +19,14 @@ I build clean, reproducible analysis pipelines end-to-end — **data → feature
 - Design leakage-free experiment structures and evaluation splits
 - Communicate results clearly through plots, maps, and short technical writeups
 
+## What I specialize in
+
+- Environmental + ecological data analysis
+- Geospatial and spatiotemporal reasoning
+- Data validation + quality checks
+- Clear, defensible methodology
+- Communicating results through accessible visuals and short technical narratives
+
 ---
 
 ## 🧪 Featured projects
